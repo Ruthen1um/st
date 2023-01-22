@@ -3,7 +3,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono:size=17";
+static char *font = "Iosevka Fixed SS05:size=20:style=Regular";
 static int borderpx = 2;
 
 /*

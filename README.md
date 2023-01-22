@@ -30,3 +30,8 @@ cd st
 ```shell
 sudo make clean install
 ```
+
+### Features
+
+- Wide glyphs support with
+[this patch](https://st.suckless.org/patches/glyph_wide_support/)
