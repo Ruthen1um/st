@@ -35,3 +35,4 @@ sudo make clean install
 
 - Wide glyphs support with
 [this patch](https://st.suckless.org/patches/glyph_wide_support/)
+- Catppuccin colorscheme as default
